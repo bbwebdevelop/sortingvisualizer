@@ -1,0 +1,24 @@
+html, body {
+    background-color: beige;
+  }
+
+.array-container {
+    position: absolute;
+    left: 100px;
+    margin-top: 30px;
+  }
+  
+.array-bar {
+    width: 2px;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.button-container {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+
